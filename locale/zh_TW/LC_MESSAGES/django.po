@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2019-08-24 18:58+0000\n"
+"PO-Revision-Date: 2019-08-23 18:58+0000\n"
 "Last-Translator: Jack Wang <b-noc@cht.com.tw>\n"
 "Language-Team: Chinese (Traditional) <https://translate.peeringdb.com/projects/peeringdb/server/zh_Hant/>\n"
 "Language: zh_TW\n"
@@ -351,13 +351,13 @@ msgid "This command is already waiting / running - please wait for it to finish 
 msgstr "此命令已正在等待/運行 - 再次執行此命令前，請等待它完成本次執行項目"
 
 msgid "This command takes a while to complete and will be queued and ran in the background. No output log can be provided at this point in time. You may review once the command has finished."
-msgstr "命令尚未完成，正於佇列中且將於背景執行。目前無法提供output log。一旦命令完成，您重新查詢即可獲得資訊。"
+msgstr ""
 
 msgid "Old prefix - renumber all netixlans that fall into this prefix"
-msgstr "prefix過舊 - 請重新編號所有屬於此prefix之IX-LAN網段"
+msgstr ""
 
 msgid "New prefix - needs to be the same protocol and length as old prefix"
-msgstr "新prefix - 須與既有prefix具有相同協定及長度"
+msgstr ""
 
 msgid "Merge this facility - it will be deleted"
 msgstr "合併此設施 - 它將被刪除"
@@ -370,14 +370,12 @@ msgstr "撤銷合併"
 
 msgid "Don't delete users. Note that superuser accounts are always kept - regardless of this setting."
 msgstr ""
-"請勿刪除用戶\n"
-"注意：superuser帳戶為永遠保存，無論此處如何設定"
 
 msgid "Load data from peeringdb API"
-msgstr "正從peeringDB API下載資料"
+msgstr ""
 
 msgid "Restore this object - search by [reftag] [id]"
-msgstr "重置此物件 - 可使用[reftag] [id]搜尋"
+msgstr ""
 
 msgid "Only {} type objects may be restored through this interface at this point"
 msgstr ""
@@ -1949,7 +1947,7 @@ msgid "This email address has already been used"
 msgstr "這個 Email 已被使用"
 
 msgid "Already logged in"
-msgstr "已經登陸"
+msgstr "已登錄"
 
 msgid "Location"
 msgstr "位置"
@@ -1958,10 +1956,10 @@ msgid "Country Code"
 msgstr "國家代碼"
 
 msgid "Notes"
-msgstr "注釋"
+msgstr "標註"
 
 msgid "Markdown enabled"
-msgstr "Markdown 已啟用"
+msgstr "已啟用 Markdown "
 
 msgid "Geocode"
 msgstr "地理編碼"
@@ -1976,16 +1974,16 @@ msgid "Company Website"
 msgstr "公司網站"
 
 msgid "Technical Email"
-msgstr "技術郵箱"
+msgstr "技術聯絡信箱"
 
 msgid "Policy Email"
-msgstr "政策郵箱"
+msgstr "政策聯絡信箱"
 
 msgid "LAN"
 msgstr "LAN"
 
 msgid "Also Known As"
-msgstr "別名"
+msgstr "也稱為"
 
 msgid "Route Server URL"
 msgstr "路由伺服器 URL"
@@ -2033,7 +2031,7 @@ msgstr "無效的用戶名/密碼。"
 #~ msgstr "新首碼最左側的三個位元組 - 例如 xxx.xxx.xxx"
 
 #~ msgid "IRR Macro"
-#~ msgstr "IRR 宏"
+#~ msgstr "IRR 巨集"
 
 #~ msgid "IRR Record"
 #~ msgstr "IRR 記錄"
